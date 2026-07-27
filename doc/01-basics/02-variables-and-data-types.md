@@ -13,7 +13,7 @@ Instead of writing the same value again and again, store it in a variable.
 Python creates a variable automatically when you assign a value.
 
 ```python
-name = "John"
+name = "vinay"
 age = 20
 height = 5.9
 ```
@@ -159,7 +159,7 @@ Output
 Valid
 
 ```python
-name = "John"
+name = "vinay"
 
 _age = 20
 
@@ -171,9 +171,9 @@ total_price = 100
 Invalid
 
 ```python
-1name = "John"
+1name = "vinay"
 
-user-name = "John"
+user-name = "vinay"
 
 class = 10
 ```
@@ -192,7 +192,7 @@ Why?
 Recommended
 
 ```python
-student_name = "Alex"
+student_name = "kumar"
 
 total_marks = 500
 
@@ -206,7 +206,7 @@ a = 100
 
 abcxyz = 10
 
-q = "John"
+q = "vinay"
 ```
 
 Use meaningful names.
@@ -589,7 +589,7 @@ Stores key-value pairs.
 
 ```python
 student = {
-    "name":"John",
+    "name":"vinay",
     "age":20
 }
 ```
@@ -603,7 +603,7 @@ print(student["name"])
 Output
 
 ```
-John
+vinay
 ```
 
 ---
@@ -848,7 +848,7 @@ NameError
 ## Wrong Variable Name
 
 ```python
-my-name = "John"
+my-name = "vinay"
 ```
 
 Error
