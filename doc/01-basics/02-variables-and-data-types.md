@@ -14,7 +14,7 @@ Python creates a variable automatically when you assign a value.
 
 ```python
 name = "vinay"
-age = 19
+age = 20
 height = 5.9
 ```
 
@@ -49,7 +49,7 @@ It stores a reference to the object.
 # Printing Variables
 
 ```python
-name = "india"
+name = "Alice"
 
 print(name)
 ```
@@ -57,13 +57,13 @@ print(name)
 Output
 
 ```
-india
+Alice
 ```
 
 Multiple variables
 
 ```python
-name = "india"
+name = "Alice"
 age = 22
 
 print(name, age)
@@ -72,7 +72,7 @@ print(name, age)
 Output
 
 ```
-india 22
+Alice 22
 ```
 
 ---
@@ -163,7 +163,7 @@ name = "vinay"
 
 _age = 20
 
-user1 = "india"
+user1 = "Alice"
 
 total_price = 100
 ```
